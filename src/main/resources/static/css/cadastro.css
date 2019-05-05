@@ -1,0 +1,54 @@
+h1, h2 {
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+	text-align: center;
+}
+/*
+aside h1 {
+	font-size: 30px;
+	margin-bottom: 25px;
+	text-align: center;
+	display: inline-block;
+	float:left;
+}
+
+
+*/
+
+main {
+	text-align: center;
+	
+}
+
+form {
+	display: inline-block;
+	
+}
+
+fieldset {
+	overflow: hidden
+}
+
+.button {
+	background-color: CornflowerBlue;
+	color: white;
+	border-radius: 25px;
+}
+
+
+.container {
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    padding: 10px;
+   
+}
+.menu-lateral {
+    width: 10%;
+    height: 150px;
+    float: left;
+}
+.form {
+    margin-left: 15%;
+    height: 200px;
+    
+}
